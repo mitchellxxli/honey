@@ -703,7 +703,7 @@ Pacific), the estimated probability of rejection is 0.02 for a sample
 with a named floral source (logit difference = -1.894, *SE* = 0.461, *z*
 = -4.105, p \< 0.0001), compared to a 0.13 probability of rejection for
 samples without a named floral source at the reference level of the
-toher predictors. This is indicates that under the null hypothesis (no
+other predictors. This is indicates that under the null hypothesis (no
 difference between samples with and without a declared floral source),
 these results are very unlikely.
 
@@ -894,5 +894,5 @@ In conclusion, this was an exploratory analysis on a small,
 non-representative dataset that demonstrated potential trends that could
 be investigated with more careful data collection, but does not make any
 definitive claims. However, just in case the trends in this data are
-reflected more broadly, I’ll be choosing honey a nice wildflower honey
+reflected more broadly, I’ll be choosing a nice wildflower honey
 for my next jar.
